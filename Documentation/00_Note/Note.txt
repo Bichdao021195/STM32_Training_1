@@ -1,2 +1,0 @@
-- Create git repo for stm32 traning
-- Upload base source to git 
